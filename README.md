@@ -21,12 +21,12 @@ tags:
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Portfolio](https://img.shields.io/badge/Portfolio-davidfernandez.dev-blue)](https://davidfernandez.dev)
-[![Demo](https://img.shields.io/badge/Demo-Live-green)](https://huggingface.co/spaces/davidfertube/predictive-maintenance)
+[![Demo](https://img.shields.io/badge/Demo-Live-green)](https://huggingface.co/spaces/davidfertube/predictive-agent)
 [![Python 3.9+](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/)
 
 ## Overview
 
-**Predictive Maintenance Intelligence** is a production-grade AI system that predicts equipment Remaining Useful Life (RUL) using FFT signal processing and LSTM networks. Designed for power generation and grid operations, it delivers measurable reliability improvements by identifying degradation trends before failures occur.
+**Predictive Agent** is a production-grade LSTM-based RUL prediction system that extends turbine life 15-20% by accurately forecasting equipment failures. Trained on NASA C-MAPSS data and adapted for GE 7FA turbine patterns, this system enables proactive maintenance scheduling before degradation becomes critical.
 
 ## System Architecture
 
